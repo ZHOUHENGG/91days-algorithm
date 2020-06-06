@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-06-03 22:16:05
- * @LastEditTime: 2020-06-04 21:40:40
+ * @LastEditTime: 2020-06-06 20:56:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \91days-algorithm\Readme.md
@@ -14,6 +14,7 @@
 #### 讲义
 
 * [【basic-01】01.数组，栈，队列](https://github.com/leetcode-pp/91alg-1/blob/master/basic-01.md)
+* [【basic-02】02.链表](https://github.com/leetcode-pp/91alg-1/blob/master/basic-02.md)
 * [【basic-04】04.哈希表](https://github.com/leetcode-pp/91alg-1/blob/master/basic-04.md)
 * [【basic-05】05.双指针](https://lucifer.ren/blog/2020/05/26/91algo-basic-05.two-pointer/)
 
@@ -24,3 +25,5 @@
 * [【day-03】1381.设计一个支持增量操作的栈](./day3.md)
 * [【day-04】394.字符串解码](./day4.md)
 * [【day-04-1】80.删除排序数组中的重复项 II](./day4-1.md)
+* [【day-05】232. 用栈实现队列](./day5.md)
+* [【day-06】380. 常数时间插入、删除和获取随机元素](./day6.md)
